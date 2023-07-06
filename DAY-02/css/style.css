@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    background-color: antiquewhite;
+}
+table,th,td{
+    border: 2px solid black;
+}
+.firstclass{
+    text-align: center;
+}
+#firstid{
+    background-color: aqua;
+}
